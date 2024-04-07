@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-It is a mardown file.
+It is a markdown file.
